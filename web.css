@@ -1,0 +1,14 @@
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #333;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
